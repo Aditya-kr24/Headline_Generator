@@ -1,0 +1,9 @@
+caption,event_type,event_confidence,ocr_text,headline,grounded,used_fallback,image
+there are a lot of people that are shopping in a market,a street market,0.9731677770614624,,A bustling market thrives with shoppers,True,False,download.jpg
+there are many people walking down the street holding a banner,a protest march,0.9311689734458923,FOR FOSSIL MARcH,Protesters march for fossil march,True,False,images (1).jpg
+this is an aerial view of a large crowd of people at a festival,a religious festival procession,0.9112709164619446,,Aerial view shows religious festival crowd procession,True,False,images (2).jpg
+crowd of people watching a band performing on stage at a concert,a music concert,0.9913560152053833,,Crowd watches band perform at concert,True,False,images (3).jpg
+there is a group of men playing a game of squash on a court,a sports match,0.9623854756355286,,Men squatting during squash game,True,False,images (4).jpg
+group of men running in a marathon race on a city street,a running race,0.9989064931869507,tcs SAWE ESA PETROS],Group of men run marathon race city street,True,False,images (5).jpg
+several people sitting in chairs in front of a screen at a press conference,a press conference,0.9957934617996216,GMERICAN,Press conference: GMERICAN discussing matters,True,False,images (6).jpg
+there is a man speaking into a microphone in front of a crowd of people,a political rally,0.7969790697097778,,Man speaks at political rally before large crowd,True,False,images.jpg
