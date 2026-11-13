@@ -51,8 +51,8 @@ Environment: Python 3, PyTorch, Hugging Face Transformers, Google Colab (T4 GPU)
 ## How to Run
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/Aditya-kr24/Headline_Generator
+cd `Headline_Generator
 pip install -r requirements.txt
 python app.py
 ```
