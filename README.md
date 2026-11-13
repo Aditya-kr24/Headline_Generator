@@ -151,10 +151,6 @@ The assessment is a manual judgement on a small set of images. No accuracy score
 └── VIDEO_LINK.md            # presentation + demo video link (or Release link)
 ```
 
-## Presentation and Demo Video
-
-Link: _(paste the video link here)_
-
 ## References
 
 - Li et al., "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation", 2022.
